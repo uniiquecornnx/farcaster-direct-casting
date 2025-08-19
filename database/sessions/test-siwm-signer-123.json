@@ -1,0 +1,8 @@
+{
+  "signerUuid": "test-siwm-signer-123",
+  "status": "approved",
+  "fid": 12345,
+  "createdAt": "2025-08-19T13:54:39.602Z",
+  "provider": "neynar_siwn",
+  "updatedAt": "2025-08-19T13:54:39.602Z"
+}

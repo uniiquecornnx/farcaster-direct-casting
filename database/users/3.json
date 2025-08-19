@@ -1,0 +1,43 @@
+{
+  "fid": 3,
+  "displayName": "Dan Romero",
+  "profile": {
+    "bio": {
+      "text": "Working on Farcaster",
+      "mentions": [],
+      "channelMentions": []
+    },
+    "location": {
+      "placeId": "ChIJE9on3F3HwoAR9AhGJW_fL-I",
+      "description": "Los Angeles, CA, USA"
+    },
+    "earlyWalletAdopter": true,
+    "accountLevel": "pro",
+    "url": "https://danromero.org",
+    "bannerImageUrl": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/dab99f37-561b-4bd2-6d73-86f828a76d00/original"
+  },
+  "followerCount": 348150,
+  "followingCount": 4298,
+  "username": "dwr.eth",
+  "pfp": {
+    "url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original",
+    "verified": false
+  },
+  "referrerUsername": "farcaster",
+  "connectedAccounts": [
+    {
+      "connectedAccountId": "0195812e-7579-fa7a-1232-71f07b8a1e33",
+      "platform": "x",
+      "username": "dwr",
+      "expired": false
+    }
+  ],
+  "viewerContext": {
+    "following": false,
+    "followedBy": false,
+    "canSendDirectCasts": false,
+    "enableNotifications": false,
+    "hasUploadedInboxKeys": true
+  },
+  "updatedAt": "2025-08-14T15:01:04.141Z"
+}
